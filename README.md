@@ -1,14 +1,7 @@
 # ⚙️ RTOS Implementation on STM32
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-green?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Embedded%20C-orange?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-STM32CubeIDE-informational?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Category-Embedded%20Systems-lightgrey?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
 
----
+
 
 ## 🧠 Project Overview
 
