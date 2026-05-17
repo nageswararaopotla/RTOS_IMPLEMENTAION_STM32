@@ -108,7 +108,7 @@ Data exchange between tasks is achieved using **queues** and **notifications**, 
 ## 👨‍💻 Author
 
 **Nageswararao Potla**  
-💡 *Embedded Systems & RTOS Developer | STM32 Enthusiast*  
+💡 *Embedded Systems & RTOS Developer | STM32 Enthusiast* 
 
 
 ---
